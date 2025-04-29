@@ -10,4 +10,4 @@ For detailed documentation about features of CIPP, please check out our [documen
 
 # Our sponsors
 
-You can find our sponsors [here.](https://docs.cipp.app/#our-sponsors).
+You can find our sponsors [here.](https://docs.cipp.app/#our-sponsors)
